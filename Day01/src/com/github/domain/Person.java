@@ -43,4 +43,8 @@ public class Person {
                 ", d='" + d + '\'' +
                 '}';
     }
+
+    public void eat() {
+        System.out.println("eat...");
+    }
 }
