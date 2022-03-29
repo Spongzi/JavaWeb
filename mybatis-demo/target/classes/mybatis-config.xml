@@ -3,6 +3,11 @@
         PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
+    <!--  别名  -->
+    <typeAliases>
+        <package name="com.github.pojo"/>
+    </typeAliases>
+    <!--  environments: 配置数据库信息，可以配置多个不同的environment，通过default属性来切换不同的environment  -->
     <environments default="development">
         <environment id="development">
             <transactionManager type="JDBC"/>
