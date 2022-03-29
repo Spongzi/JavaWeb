@@ -5,7 +5,7 @@
 <!--
 namespace: 名称空间
 -->
-<mapper namespace="test">
+<mapper namespace="com.github.mapper.UserMapper">
     <select id="selectAll" resultType="com.github.pojo.User">
         select * from tb_user
     </select>

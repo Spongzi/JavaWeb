@@ -16,6 +16,8 @@
     </environments>
     <mappers>
         <!--加载sql映射文件-->
-        <mapper resource="userMapper.xml"/>
+<!--        <mapper resource="com/github/mapper/UserMapper.xml"/>-->
+        <!--Mapper代理的方式-->
+        <package name="com.github.mapper"/>
     </mappers>
 </configuration>
