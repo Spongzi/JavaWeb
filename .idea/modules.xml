@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/FontBasic/FontBasic.iml" filepath="$PROJECT_DIR$/FontBasic/FontBasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaWebStudy.iml" filepath="$PROJECT_DIR$/.idea/JavaWebStudy.iml" />
-      <module fileurl="file://G:/BaiduNetdiskDownload/2021 黑马 Java 后端入门到进阶教程/第2阶段—Java Web/2021最新JavaWeb（高效学习版）/JavaWeb-资料/day07-JavaScript/代码/js-demo/js-demo.iml" filepath="G:/BaiduNetdiskDownload/2021 黑马 Java 后端入门到进阶教程/第2阶段—Java Web/2021最新JavaWeb（高效学习版）/JavaWeb-资料/day07-JavaScript/代码/js-demo/js-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/maven-demo/maven-demo.iml" filepath="$PROJECT_DIR$/maven-demo/maven-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis-demo/mybatis-demo.iml" filepath="$PROJECT_DIR$/mybatis-demo/mybatis-demo.iml" />
     </modules>
