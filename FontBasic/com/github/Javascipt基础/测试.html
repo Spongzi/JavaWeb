@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="button" value="点我"/> <br>
+<input type="button" value="再点我"/>
+
+<input type="text">
+
+<script>
+    let elementsByTagName = document.getElementsByTagName("input");
+    elementsByTagName.item(0).onclick = () => {
+        alert("傻逼")
+    }
+    elementsByTagName.item(1).onclick = () => {
+        alert("真是傻逼")
+    }
+
+    elementsByTagName.item(2).onfocus = () => {
+        elementsByTagName.item(2).style.backgroundColor = "yellow"
+    }
+</script>
+</body>
+</html>
