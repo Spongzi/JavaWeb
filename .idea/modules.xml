@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/helloWebDemo/helloWebDemo.iml" filepath="$PROJECT_DIR$/helloWebDemo/helloWebDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/maven-demo/maven-demo.iml" filepath="$PROJECT_DIR$/maven-demo/maven-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis-demo/mybatis-demo.iml" filepath="$PROJECT_DIR$/mybatis-demo/mybatis-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/requestDemo/requestDemo.iml" filepath="$PROJECT_DIR$/requestDemo/requestDemo.iml" />
     </modules>
   </component>
 </project>
