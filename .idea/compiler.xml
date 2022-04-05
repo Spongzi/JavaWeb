@@ -10,12 +10,14 @@
         <module name="helloWebDemo" />
         <module name="maven-demo" />
         <module name="LoginAndRegisterDemo" />
+        <module name="jspDemo" />
         <module name="requestDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
       <module name="helloWeb" target="1.7" />
       <module name="helloWebDemo" target="1.7" />
+      <module name="jspDemo" target="1.7" />
       <module name="LoginAndRegisterDemo" target="1.7" />
       <module name="maven-demo" target="1.5" />
       <module name="mybatis-demo" target="1.5" />
