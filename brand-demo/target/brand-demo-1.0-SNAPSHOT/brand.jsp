@@ -40,7 +40,7 @@
             <c:if test="${brand.status == 1}">
                 <td>启用</td>
             </c:if>
-            <td><a href="/brand/selectByIdServlet?id=${brand.id}">修改</a> <a href="#">删除</a></td>
+            <td><a href="/brand/selectByIdServlet?id=${brand.id}">修改</a> <a href="/brand/deleteServlet?id=${brand.id}">删除</a></td>
         </tr>
     </c:forEach>
 </table>
