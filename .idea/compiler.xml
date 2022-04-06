@@ -13,10 +13,12 @@
         <module name="mybatis-demo" />
         <module name="helloWebDemo" />
         <module name="brand-demo" />
+        <module name="cookie-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
       <module name="brand-demo" target="1.7" />
+      <module name="cookie-demo" target="1.7" />
       <module name="helloWeb" target="1.7" />
       <module name="helloWebDemo" target="1.7" />
       <module name="jspDemo" target="1.7" />

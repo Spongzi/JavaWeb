@@ -2,6 +2,7 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/brand-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/cookie-demo" />
     <file type="web" url="file://$PROJECT_DIR$/helloWeb/helloWeb" />
     <file type="web" url="file://$PROJECT_DIR$/helloWebDemo" />
     <file type="web" url="file://$PROJECT_DIR$/jspDemo" />
@@ -19,10 +20,11 @@
         <option value="$PROJECT_DIR$/LoginAndRegisterDemo/pom.xml" />
         <option value="$PROJECT_DIR$/jspDemo/pom.xml" />
         <option value="$PROJECT_DIR$/brand-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/cookie-demo/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
