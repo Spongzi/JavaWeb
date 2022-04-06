@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/brand-demo" />
     <file type="web" url="file://$PROJECT_DIR$/helloWeb/helloWeb" />
     <file type="web" url="file://$PROJECT_DIR$/helloWebDemo" />
     <file type="web" url="file://$PROJECT_DIR$/jspDemo" />
@@ -17,6 +18,7 @@
         <option value="$PROJECT_DIR$/requestDemo/pom.xml" />
         <option value="$PROJECT_DIR$/LoginAndRegisterDemo/pom.xml" />
         <option value="$PROJECT_DIR$/jspDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/brand-demo/pom.xml" />
       </list>
     </option>
   </component>

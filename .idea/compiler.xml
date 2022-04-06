@@ -6,15 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mybatis-demo" />
-        <module name="helloWebDemo" />
         <module name="maven-demo" />
         <module name="LoginAndRegisterDemo" />
         <module name="jspDemo" />
         <module name="requestDemo" />
+        <module name="mybatis-demo" />
+        <module name="helloWebDemo" />
+        <module name="brand-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
+      <module name="brand-demo" target="1.7" />
       <module name="helloWeb" target="1.7" />
       <module name="helloWebDemo" target="1.7" />
       <module name="jspDemo" target="1.7" />
