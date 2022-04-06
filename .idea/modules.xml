@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FontBasic/FontBasic.iml" filepath="$PROJECT_DIR$/FontBasic/FontBasic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/JavaWebStudy.iml" filepath="$PROJECT_DIR$/.idea/JavaWebStudy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LoginAndRegisterDemo/LoginAndRegisterDemo.iml" filepath="$PROJECT_DIR$/LoginAndRegisterDemo/LoginAndRegisterDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/brand-demo/brand-demo.iml" filepath="$PROJECT_DIR$/brand-demo/brand-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/cookie-demo/cookie-demo.iml" filepath="$PROJECT_DIR$/cookie-demo/cookie-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/helloWebDemo/helloWebDemo.iml" filepath="$PROJECT_DIR$/helloWebDemo/helloWebDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jspDemo/jspDemo.iml" filepath="$PROJECT_DIR$/jspDemo/jspDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/maven-demo/maven-demo.iml" filepath="$PROJECT_DIR$/maven-demo/maven-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mybatis-demo/mybatis-demo.iml" filepath="$PROJECT_DIR$/mybatis-demo/mybatis-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/requestDemo/requestDemo.iml" filepath="$PROJECT_DIR$/requestDemo/requestDemo.iml" />
     </modules>
   </component>
 </project>

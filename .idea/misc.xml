@@ -12,13 +12,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/maven-demo/pom.xml" />
-        <option value="$PROJECT_DIR$/mybatis-demo/pom.xml" />
         <option value="$PROJECT_DIR$/helloWeb/helloWeb/pom.xml" />
-        <option value="$PROJECT_DIR$/helloWebDemo/pom.xml" />
-        <option value="$PROJECT_DIR$/requestDemo/pom.xml" />
-        <option value="$PROJECT_DIR$/LoginAndRegisterDemo/pom.xml" />
-        <option value="$PROJECT_DIR$/jspDemo/pom.xml" />
         <option value="$PROJECT_DIR$/brand-demo/pom.xml" />
         <option value="$PROJECT_DIR$/cookie-demo/pom.xml" />
       </list>

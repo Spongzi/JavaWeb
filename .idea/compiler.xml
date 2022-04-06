@@ -6,12 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="maven-demo" />
-        <module name="LoginAndRegisterDemo" />
-        <module name="jspDemo" />
-        <module name="requestDemo" />
-        <module name="mybatis-demo" />
-        <module name="helloWebDemo" />
         <module name="brand-demo" />
         <module name="cookie-demo" />
       </profile>
