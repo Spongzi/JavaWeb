@@ -3,6 +3,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/brand-demo" />
     <file type="web" url="file://$PROJECT_DIR$/cookie-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/filter-demo" />
     <file type="web" url="file://$PROJECT_DIR$/helloWeb/helloWeb" />
     <file type="web" url="file://$PROJECT_DIR$/helloWebDemo" />
     <file type="web" url="file://$PROJECT_DIR$/jspDemo" />
@@ -15,6 +16,7 @@
         <option value="$PROJECT_DIR$/helloWeb/helloWeb/pom.xml" />
         <option value="$PROJECT_DIR$/brand-demo/pom.xml" />
         <option value="$PROJECT_DIR$/cookie-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/filter-demo/pom.xml" />
       </list>
     </option>
   </component>
