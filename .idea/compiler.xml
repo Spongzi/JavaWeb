@@ -6,13 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="filter-demo" />
         <module name="brand-demo" />
-        <module name="cookie-demo" />
+        <module name="vue-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
-      <module name="brand-demo" target="1.7" />
+      <module name="ajax-demo" target="1.7" />
+      <module name="brand-demo" target="8" />
+      <module name="brand-demo (1)" target="8" />
       <module name="cookie-demo" target="1.7" />
       <module name="filter-demo" target="1.7" />
       <module name="helloWeb" target="1.7" />
@@ -22,6 +23,7 @@
       <module name="maven-demo" target="1.5" />
       <module name="mybatis-demo" target="1.5" />
       <module name="requestDemo" target="1.7" />
+      <module name="vue-demo" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
