@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://G:/BaiduNetdiskDownload/2021 黑马 Java 后端入门到进阶教程/第2阶段—Java Web/2021最新JavaWeb（高效学习版）/JavaWeb-资料/day12-Filter&amp;Listener&amp;Ajax/02-AJAX/资料/3. 品牌列表案例/初始工程/brand-demo/brand-demo.iml" filepath="G:/BaiduNetdiskDownload/2021 黑马 Java 后端入门到进阶教程/第2阶段—Java Web/2021最新JavaWeb（高效学习版）/JavaWeb-资料/day12-Filter&amp;Listener&amp;Ajax/02-AJAX/资料/3. 品牌列表案例/初始工程/brand-demo/brand-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brand-case/brand-case.iml" filepath="$PROJECT_DIR$/brand-case/brand-case.iml" />
       <module fileurl="file://$PROJECT_DIR$/vue-demo/vue-demo.iml" filepath="$PROJECT_DIR$/vue-demo/vue-demo.iml" />
     </modules>
   </component>

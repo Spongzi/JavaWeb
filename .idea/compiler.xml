@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="brand-demo" />
         <module name="vue-demo" />
+        <module name="brand-case" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
       <module name="ajax-demo" target="1.7" />
+      <module name="brand-case" target="8" />
       <module name="brand-demo" target="8" />
       <module name="brand-demo (1)" target="8" />
       <module name="cookie-demo" target="1.7" />
